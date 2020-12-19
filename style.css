@@ -1,0 +1,48 @@
+body{
+  padding-top: 10px;
+  text-align: center;
+  background-image: url(https://images.unsplash.com/photo-1522199670076-2852f80289c3?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8dG9kb3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+
+.Title {
+  text-align: center;
+  font-family: 'Oswald', Helvetica, sans-serif;
+  font-size: 60px;
+  letter-spacing: 4px;
+  word-spacing: -8px;
+  color: teal;
+  text-shadow: 0 0 4px #FF0000, 0 0 5px #0009FF;
+}
+p{
+  font-weight: bolder;
+  font-size: 40px;
+  color: #512484;
+}
+#userinput , button{
+  padding: 5px;
+}
+button{
+  box-shadow: 5px 5px 5px grey;
+  border-color: #bdbdbd;
+  border-radius: 7px;
+}
+.border{
+
+  background-color: rgba(237, 240,240, 0.5);
+  padding: 10px;
+  margin: 0, auto;
+
+}
+li{
+  list-style: none;
+  margin-bottom: 10px;
+  font-size: 30px;
+  font-weight: bolder;
+}
+
+.done {
+  text-decoration: line-through;
+}
